@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://narlyled.ruto.pl/narlyled.txt
